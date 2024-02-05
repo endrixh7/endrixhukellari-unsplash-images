@@ -161,4 +161,3 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 #### Vite ENV Vars
 
 - .env : must be included in .gitignore
-- Erida eshte maloke!
